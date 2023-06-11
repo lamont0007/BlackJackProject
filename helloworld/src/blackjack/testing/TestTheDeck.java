@@ -1,7 +1,7 @@
-package com.skilldistillery.blackjack.testing;
+package blackjack.testing;
 
-import com.skilldistillery.blackjack.entities.Card;
-import com.skilldistillery.blackjack.entities.Deck;
+import blackjack.entities.Card;
+import blackjack.entities.Deck;
 
 public class TestTheDeck {
 

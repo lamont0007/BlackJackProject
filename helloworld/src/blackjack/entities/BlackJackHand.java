@@ -1,4 +1,4 @@
-package com.skilldistillery.blackjack.entities;
+package blackjack.entities;
 
 public class BlackJackHand extends Hand {
 

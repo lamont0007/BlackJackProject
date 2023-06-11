@@ -1,7 +1,7 @@
-package com.skilldistillery.blackjack.entities;
-
+package blackjack.entities;
 import java.util.List;
 import java.util.Scanner;
+
 
 public class Player extends Hand {
     public int getHandValue() {

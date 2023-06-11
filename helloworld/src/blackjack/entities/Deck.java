@@ -1,4 +1,4 @@
-package com.skilldistillery.blackjack.entities;
+package blackjack.entities;
 
 import java.util.ArrayList;
 import java.util.Collections;

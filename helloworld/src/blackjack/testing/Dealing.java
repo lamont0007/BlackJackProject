@@ -1,6 +1,6 @@
-package com.skilldistillery.blackjack.app;
+package blackjack.testing;
 
-public class BLApp {
+public class Dealing {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
