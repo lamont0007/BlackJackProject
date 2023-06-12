@@ -29,7 +29,7 @@ public class Dealer extends Player {
             builder.append(card).append(", ");
         }
         if (builder.length() > 0) {
-            builder.setLength(builder.length() - 2); // Remove the last comma and space
+            builder.setLength(builder.length() - 2); 
         }
         return builder.toString();
     }
